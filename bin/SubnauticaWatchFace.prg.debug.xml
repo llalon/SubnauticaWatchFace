@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\liaml\git\SubnauticaWatchFace\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="3" lineNum="14" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="4" lineNum="18" pc="268435479" symbol="onLayout"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="4" lineNum="19" pc="268435483" symbol="onLayout"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="4" lineNum="22" pc="268435520" symbol="onLayout"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="4" lineNum="23" pc="268435545" symbol="onLayout"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="5" lineNum="29" pc="268435571" symbol="onShow"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="6" lineNum="33" pc="268435576" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="6" lineNum="36" pc="268435580" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="6" lineNum="37" pc="268435592" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="6" lineNum="38" pc="268435604" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="6" lineNum="42" pc="268435616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="7" lineNum="48" pc="268435637" symbol="onHide"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="8" lineNum="52" pc="268435642" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="9" lineNum="56" pc="268435647" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="60" pc="268435652" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="61" pc="268435656" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="62" pc="268435679" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="64" pc="268435679" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="65" pc="268435716" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="67" pc="268435726" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="70" pc="268435733" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="72" pc="268435757" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="10" lineNum="75" pc="268435784" symbol="setAltDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="11" lineNum="78" pc="268435799" symbol="setClockDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="11" lineNum="79" pc="268435803" symbol="setClockDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="11" lineNum="80" pc="268435820" symbol="setClockDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="11" lineNum="81" pc="268435894" symbol="setClockDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="11" lineNum="83" pc="268435918" symbol="setClockDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="12" lineNum="86" pc="268435933" symbol="setBatteryDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="12" lineNum="87" pc="268435937" symbol="setBatteryDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="12" lineNum="88" pc="268435960" symbol="setBatteryDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="12" lineNum="89" pc="268435984" symbol="setBatteryDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceView.mc" id="12" lineNum="91" pc="268436008" symbol="setBatteryDisplay"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceBackground.mc" id="14" lineNum="8" pc="268436023" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceBackground.mc" id="14" lineNum="9" pc="268436027" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceBackground.mc" id="14" lineNum="13" pc="268436048" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceBackground.mc" id="15" lineNum="16" pc="268436069" symbol="draw"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceBackground.mc" id="15" lineNum="18" pc="268436073" symbol="draw"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceBackground.mc" id="15" lineNum="19" pc="268436122" symbol="draw"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="17" lineNum="7" pc="268436135" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="17" lineNum="8" pc="268436139" symbol="initialize"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="18" lineNum="12" pc="268436158" symbol="onStart"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="19" lineNum="16" pc="268436163" symbol="onStop"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="20" lineNum="20" pc="268436168" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="20" lineNum="21" pc="268436172" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="21" lineNum="25" pc="268436210" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="21" lineNum="26" pc="268436214" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="22" lineNum="31" pc="268436231" symbol="getApp"/>
+        <entry filename="C:\\Users\\liaml\\git\\SubnauticaWatchFace\\source\\SubnauticaWatchFaceApp.mc" id="22" lineNum="32" pc="268436243" symbol="getApp"/>
+        <entry filename="Rez" id="28" lineNum="22" pc="268436260" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="23" pc="268436272" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="25" pc="268436313" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="26" pc="268436337" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="27" pc="268436456" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="28" pc="268436508" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="29" pc="268436631" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="30" pc="268436761" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="32" pc="268436924" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="24" symbol="ColorRed"/>
+        <entry id="13" method="true" symbol="setAltDisplay"/>
+        <entry field="true" id="28" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="23" symbol="ColorBlue"/>
+        <entry field="true" id="31" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="9" object="true" symbol="SubnauticaWatchFaceView"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="27" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="10" object="true" symbol="SubnauticaWatchFaceApp"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="12" symbol="cy"/>
+        <entry field="true" id="11" symbol="cx"/>
+        <entry field="true" id="19" symbol="bg"/>
+        <entry field="true" id="30" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="29" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="15" method="true" symbol="setBatteryDisplay"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="14" method="true" symbol="setClockDisplay"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="20" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="26" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="18" symbol="BatteryIcon"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="22" symbol="ColorLightGray"/>
+        <entry field="true" id="21" symbol="subfont"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="25" symbol="ForegroundColorTitle"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435571" name="dc" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435637" name="dc" stackId="1" startPc="268435576"/>
+        <entry endPc="268435798" name="altDisplay" stackId="3" startPc="268435656"/>
+        <entry endPc="268435798" name="units" stackId="2" startPc="268435656"/>
+        <entry endPc="268435798" name="altString" stackId="4" startPc="268435656"/>
+        <entry endPc="268435798" name="alt" stackId="1" startPc="268435656"/>
+        <entry endPc="268435932" name="timeString" stackId="2" startPc="268435803"/>
+        <entry endPc="268435932" name="clockTime" stackId="1" startPc="268435803"/>
+        <entry endPc="268435932" name="clockDisplay" stackId="3" startPc="268435803"/>
+        <entry endPc="268436022" name="batteryString" stackId="2" startPc="268435937"/>
+        <entry endPc="268436022" name="battery" stackId="1" startPc="268435937"/>
+        <entry endPc="268436022" name="batteryDisplay" stackId="3" startPc="268435937"/>
+        <entry endPc="268436068" name="dictionary" stackId="1" startPc="268436027"/>
+        <entry arg="true" endPc="268436135" name="dc" stackId="1" startPc="268436069"/>
+        <entry arg="true" endPc="268436163" name="state" stackId="1" startPc="268436158"/>
+        <entry arg="true" endPc="268436168" name="state" stackId="1" startPc="268436163"/>
+        <entry endPc="268436981" name="local_Rez_Fonts_subfont" stackId="2" startPc="268436272"/>
+        <entry endPc="268436981" name="rez_cmp_local_text_AltDisplay" stackId="5" startPc="268436272"/>
+        <entry endPc="268436981" name="rez_cmp_local_text_BatteryDisplay" stackId="7" startPc="268436272"/>
+        <entry endPc="268436981" name="rez_cmp_local_bitmap_bg" stackId="4" startPc="268436272"/>
+        <entry endPc="268436981" name="rez_cmp_local_text_TimeDisplay" stackId="6" startPc="268436272"/>
+        <entry endPc="268436981" name="rez_cmp_local_custom_drawable_81934527017999498244" stackId="3" startPc="268436272"/>
+        <entry arg="true" endPc="268436982" name="dc" stackId="1" startPc="268436260"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bg"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="subfont"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/SubnauticaWatchFaceApp" offset="221" parentId="globals" symbolId="SubnauticaWatchFaceApp" type="class"/>
+        <dataEntry label="globals/SubnauticaWatchFaceView" offset="300" parentId="globals" symbolId="SubnauticaWatchFaceView" type="class"/>
+        <dataEntry label="globals/Rez" offset="435" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="514" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="577" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="608" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="647" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="686" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="717" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="SubnauticaWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="SubnauticaWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setAltDisplay" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setClockDisplay" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setBatteryDisplay" parent="SubnauticaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SubnauticaWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="SubnauticaWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="SubnauticaWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="SubnauticaWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="SubnauticaWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

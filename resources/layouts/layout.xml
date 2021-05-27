@@ -1,0 +1,12 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    
+    <bitmap id="bg" x="center" y="center" filename="../../resources/drawables/bg.png" dithering="none">
+    	<palette disableTransparency="true">
+       </palette>
+    </bitmap>
+    
+    <label id="AltDisplay" x="center" y="25" font="@Fonts.subfont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="TimeDisplay" x="center" y="bottom" font="@Fonts.subfont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+	<label id="BatteryDisplay" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+</layout>

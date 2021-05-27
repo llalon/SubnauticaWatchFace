@@ -1,0 +1,5 @@
+<resources>
+    <fonts>
+        <font id="subfont" filename="Subnautica.fnt"/>
+    </fonts>
+</resources>
