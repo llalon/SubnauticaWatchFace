@@ -4,6 +4,7 @@ import Toybox.Lang;
 import Toybox.System;
 import Toybox.WatchUi;
 import Toybox.Activity;
+import Toybox.Time;
 
 class SubnauticaWatchFaceView extends WatchUi.WatchFace {
 
@@ -36,6 +37,9 @@ class SubnauticaWatchFaceView extends WatchUi.WatchFace {
     	setClockDisplay();
     	setBatteryDisplay();
     	setAltDisplay();
+    	setDateDisplay();
+    	setPulseDisplay();
+    	setNotifyDisplay();
     	
 
         // Call the parent onUpdate function to redraw the layout
@@ -85,11 +89,35 @@ class SubnauticaWatchFaceView extends WatchUi.WatchFace {
     
     hidden function setBatteryDisplay() {
     	var battery = System.getSystemStats().battery;		
-    	var batteryString = battery.format("%d")+"%";		
+    	var batteryString = battery.format("%d");		
 		var batteryDisplay = View.findDrawableById("BatteryDisplay");
 		      
 		batteryDisplay.setText(batteryString);	
     }
     
-
+    hidden function setDateDisplay() {
+    	var now = Time.now();
+		var info = Time.Gregorian.info(now, Time.FORMAT_SHORT);
+    	var dateString = Lang.format("$1$/$2$", [info.day, info.month]);
+    	var dateDisplay = View.findDrawableById("DateDisplay");
+    	
+    	dateDisplay.setText(dateString);
+    }
+    
+    hidden function setPulseDisplay() {
+    	var pulse = Activity.getActivityInfo().currentHeartRate;
+    	var pulseString = pulse + "";
+    	var pulseDisplay = View.findDrawableById("PulseDisplay");
+    	
+    	pulseDisplay.setText(pulseString);
+    }
+    
+    hidden function setNotifyDisplay() {
+    	var now = Time.now();
+		var info = Time.Gregorian.info(now, Time.FORMAT_LONG);
+    	var dateString = Lang.format("$1$", [info.day_of_week]);
+    	var dateDisplay = View.findDrawableById("NotifyDisplay");
+    	
+    	dateDisplay.setText(dateString);
+    } 
 }
