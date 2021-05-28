@@ -192,7 +192,7 @@
         <entry endPc="268437737" name="rez_cmp_local_text_AltDisplay" stackId="5" startPc="268436676"/>
         <entry endPc="268437737" name="rez_cmp_local_text_NotifyDisplay" stackId="9" startPc="268436676"/>
         <entry endPc="268437737" name="local_Rez_Fonts_subfont" stackId="2" startPc="268436676"/>
-        <entry endPc="268437737" name="rez_cmp_local_custom_drawable_10284807515957691811" stackId="3" startPc="268436676"/>
+        <entry endPc="268437737" name="rez_cmp_local_custom_drawable_46135304397869108213" stackId="3" startPc="268436676"/>
         <entry endPc="268437737" name="rez_cmp_local_text_PulseDisplay" stackId="10" startPc="268436676"/>
         <entry endPc="268437737" name="rez_cmp_local_text_BatteryDisplay" stackId="6" startPc="268436676"/>
         <entry arg="true" endPc="268437738" name="dc" stackId="1" startPc="268436664"/>
